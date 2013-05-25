@@ -6,7 +6,7 @@
     "FirefoxOS",
     "OpenWebApp"
   ],
-  "author": "Luca Greco <luca.greco@alcacoop.it>"
+  "author": "Luca Greco <luca.greco@alcacoop.it>",
   "description": "Simple Gaia Example App coded for the 'Hack On FirefoxOS' talk  (http://learn.alcacoop.it/2012/LinuxDay/HackOnFirefoxOS)",
   "repository": {
     "type": "git",
